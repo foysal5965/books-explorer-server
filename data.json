@@ -1,0 +1,90 @@
+[
+    {
+        "title":"Nineteen Eighty-Four",
+        "author":"George Orwell",
+        "genre":"Political Fiction",
+        "publicationDate":"8 June 1949",
+        "image":"https://i.ibb.co/KbZX2DC/330px-1984first.jpg",
+        "details":"Nineteen Eighty-Four (also published as 1984) is a dystopian social science fiction novel and cautionary tale by English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, it centres on the consequences of totalitarianism, mass surveillance and repressive regimentation of people and behaviours within society.[2][3] Orwell, a democratic socialist, modelled the authoritarian state in the novel on the Soviet Union in the era of Stalinism, and Nazi Germany.[2][3][4] More broadly, the novel examines the role of truth and facts within societies and the ways in which they can be manipulated."
+    },
+    {
+        "title":"One Hundred Years of Solitude" ,
+        "author":"Gabriel García Márquez",
+        "genre":"Magic realism",
+        "publicationDate":"1967",
+        "image":"https://i.ibb.co/Nxbx9B1/Cien-a-os-de-soledad-book-cover-1967.jpg",
+        "details":"One Hundred Years of Solitude (Spanish: Cien años de soledad, American Spanish: [sjen ˈaɲos ðe soleˈðað]) is a 1967 novel by Colombian author Gabriel García Márquez that tells the multi-generational story of the Buendía family, whose patriarch, José Arcadio Buendía, founded the fictitious town of Macondo. The novel is often cited as one of the supreme achievements in world literature.[1][2][3][4]"
+    },
+    {
+        "title":"Beloved " ,
+        "author":"Toni Morrison",
+        "genre":"",
+        "publicationDate":"September 1987",
+        "image":"https://i.ibb.co/BNwzQ2n/330px-Beloved-1987-1st-ed-dust-jacket-cover.jpg",
+        "details":"Beloved is a 1987 novel by American novelist Toni Morrison. Set in the period after the American Civil War, the novel tells the story of a dysfunctional family of formerly enslaved people whose Cincinnati home is haunted by a malevolent spirit. The narrative of Beloved derives from the life of Margaret Garner, an enslaved person in the slave state of Kentucky who escaped and fled to the free state of Ohio in 1856."
+    },
+    {
+        "title":"To Kill a Mockingbird" ,
+        "author":"Harper Lee",
+        "genre":"Southern Gothic",
+        "publicationDate":"July 11, 1960",
+        "image":"https://i.ibb.co/cr1z5CS/330px-To-Kill-a-Mockingbird-first-edition-cover.jpg",
+        "details":"To Kill a Mockingbird is a novel by the American author Harper Lee. It was published in 1960 and was instantly successful. In the United States, it is widely read in high schools and middle schools. To Kill a Mockingbird has become a classic of modern American literature; a year after its release, it won the Pulitzer Prize. The plot and characters are loosely based on Lee's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was ten."
+    },
+    {
+        "title":"Wuthering Heights" ,
+        "author":"Emily Brontë",
+        "genre":"Tragedy",
+        "publicationDate":"December 1847",
+        "image":"https://i.ibb.co/N1Gw3Mr/300px-Houghton-Lowell-1238-5-A-Wuthering-Heights-1847.jpg",
+        "details":"Wuthering Heights is an 1847 novel by Emily Brontë, initially published under her pen name Ellis Bell. It concerns two families of the landed gentry living on the West Yorkshire moors, the Earnshaws and the Lintons, and their turbulent relationships with the Earnshaws' foster son, Heathcliff. The novel was influenced by Romanticism and Gothic fiction."
+    },
+    {
+        "title":"Jane Eyre" ,
+        "author":"Charlotte Brontë",
+        "genre":"Romance",
+        "publicationDate":"19 October 1847",
+        "image":"https://i.ibb.co/t4VBSdM/330px-Jane-Eyre-title-page.jpg",
+        "details":"Jane Eyre (/ɛər/ AIR; originally published as Jane Eyre: An Autobiography) is a novel by the English writer Charlotte Brontë. It was published under her pen name Currer Bell on 19 October 1847 by Smith, Elder & Co. of London. The first American edition was published the following year by Harper & Brothers of New York.[2] Jane Eyre is a Bildungsroman which follows the experiences of its eponymous heroine, including her growth to adulthood and her love for Mr Rochester, the brooding master of Thornfield Hall."
+    },
+    {
+        "title":"Odyssey" ,
+        "author":"Dactylic hexameter",
+        "genre":"Epic poetry",
+        "publicationDate":"1614",
+        "image":"https://i.ibb.co/3y1jw4q/330px-Odyssey-crop.jpg",
+        "details":"The Odyssey (/ˈɒdɪsi/;[1] Ancient Greek: Ὀδύσσεια, romanized: Odýsseia)[2][3] is one of two major ancient Greek epic poems attributed to Homer. It is one of the oldest extant works of literature still widely read by modern audiences. As with the Iliad, the poem is divided into 24 books. It follows the Greek hero Odysseus, king of Ithaca, and his journey home after the Trojan War. After the war, which lasted ten years, his journey lasted for ten additional years, during which time he encountered many perils and all of his crewmates were killed. In his absence, Odysseus was assumed dead, and his wife Penelope and son Telemachus had to contend with a group of unruly suitors who were competing for Penelope's hand in marriage"
+    },
+    {
+        "title":"Anna Karenina" ,
+        "author":"Leo Tolstoy",
+        "genre":"Realist novel",
+        "publicationDate":"1878",
+        "image":"https://i.ibb.co/09TT49K/330px-Anna-Karenina-Title.jpg",
+        "details":"Anna Karenina (Russian: «Анна Каренина», IPA: [ˈanːə kɐˈrʲenʲɪnə])[1] is a novel by the Russian author Leo Tolstoy, first published in book form in 1878. Widely considered to be one of the greatest works of literature ever written,[2] Tolstoy himself called it his first true novel. It was initially released in serial installments from 1875 to 1877, all but the last part appearing in the periodical The Russian Messenger."
+    },
+    {
+        "title":"Don Quixote" ,
+        "author":"Miguel de Cervantes",
+        "genre":"Novel",
+        "publicationDate":"1605",
+        "image":"https://i.ibb.co/ftbcZjv/375px-Title-page-first-edition-Don-Quijote.jpg",
+        "details":"Don Quixote[a][b][d] is a Spanish epic novel by Miguel de Cervantes. It was originally published in two parts, in 1605 and 1615. Considered a founding work of Western literature, it is often labelled as the first modern novel[2][3] and one of the greatest works ever written.[4][5] Don Quixote is also one of the most-translated books in the world[6] and one of the best-selling novels of all time."
+    },
+    {
+        "title":"Ulysses" ,
+        "author":"James Joyce",
+        "genre":"Modernist novel",
+        "publicationDate":"Modernist novel",
+        "image":"https://i.ibb.co/9t61Sv1/330px-Joyce-Ulysses2.jpg",
+        "details":"Ulysses is a modernist novel by Irish writer James Joyce. Parts of it were first serialized in the American journal The Little Review from March 1918 to December 1920, and the entire work was published in Paris by Sylvia Beach on 2 February 1922, Joyce's fortieth birthday. It is considered one of the most important works of modernist literature[3] and has been called a demonstration and summation of the entire movement.[4] According to Declan Kiberd, Before Joyce, no writer of fiction had so foregrounded the process of thinking."
+    },
+    {
+        "title":"Crime and Punishment" ,
+        "author":"Fyodor Dostoevsky",
+        "genre":"Literary fiction",
+        "publicationDate":"1866; separate edition 1867",
+        "image":"https://i.ibb.co/tJMCMtz/Crimeandpunishmentcover.png",
+        "details":"Crime and Punishment (pre-reform Russian: Преступленіе и наказаніе; post-reform Russian: Преступление и наказание, tr. Prestupléniye i nakazániye, IPA: [prʲɪstʊˈplʲenʲɪje ɪ nəkɐˈzanʲɪje]) is a novel by the Russian author Fyodor Dostoevsky. It was first published in the literary journal The Russian Messenger in twelve monthly installments during 1866.[1] It was later published in a single volume. It is the second of Dostoevsky's full-length novels following his return from ten years of exile in Siberia. Crime and Punishment is considered the first great novel of his mature period of writing[2] and is often cited as one of the greatest works of world literature.[3][4][5][6]"
+    }
+]
